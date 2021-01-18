@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una aplicación sobre Presupuesto hecha con React.js, donde indicamos el presupuesto que tenemos y según la cantidad que indiquemos nos va a decir cuando nos queda, nos alerta si nos queda poco dinero, nos indica en qué gastamos el dinero, y demás.
 
 ## Available Scripts
 
